@@ -2,7 +2,7 @@
 
 ## Overview
 
-**IoT Sense & Control Hub** is an ESP32-based project that creates a web server to control connected devices (like LEDs) and monitor real-time sensor data (e.g., temperature and humidity). The project serves an interactive web-based control panel, allowing users to control devices and view sensor readings directly from their browser, making it a powerful and flexible tool for IoT applications.
+**arduino_IoT_webserver** is an ESP32-based project that creates a web server to control connected devices (like LEDs) and monitor real-time sensor data (e.g., temperature and humidity). The project serves an interactive web-based control panel, allowing users to control devices and view sensor readings directly from their browser, making it a powerful and flexible tool for IoT applications.
 
 ## Features
 
